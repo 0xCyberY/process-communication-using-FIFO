@@ -1,0 +1,17 @@
+Termainal FIFO1.c
+./a.out
+Hi
+user2:hello
+
+got
+user2:yes
+--------------------
+Terminal FIFO2.c
+$ ./a.out
+user1:Hi
+
+hello
+user1:got
+
+yes
+       
